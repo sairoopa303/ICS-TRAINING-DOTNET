@@ -1,0 +1,7 @@
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\bin\Debug\Assign2(1-b).exe.config
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\bin\Debug\Assign2(1-b).exe
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\bin\Debug\Assign2(1-b).pdb
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\obj\Debug\Assign2(1-b).csproj.AssemblyReference.cache
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\obj\Debug\Assign2(1-b).csproj.CoreCompileInputs.cache
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\obj\Debug\Assign2(1-b).exe
+D:\training\day1dotnet\Assign2(1-b)\Assign2(1-b)\obj\Debug\Assign2(1-b).pdb
