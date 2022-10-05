@@ -1,7 +1,0 @@
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\bin\Debug\Assign2(4).exe.config
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\bin\Debug\Assign2(4).exe
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\bin\Debug\Assign2(4).pdb
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\obj\Debug\Assign2(4).csproj.AssemblyReference.cache
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\obj\Debug\Assign2(4).csproj.CoreCompileInputs.cache
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\obj\Debug\Assign2(4).exe
-D:\training\day1dotnet\Assign2(4)\Assign2(4)\obj\Debug\Assign2(4).pdb

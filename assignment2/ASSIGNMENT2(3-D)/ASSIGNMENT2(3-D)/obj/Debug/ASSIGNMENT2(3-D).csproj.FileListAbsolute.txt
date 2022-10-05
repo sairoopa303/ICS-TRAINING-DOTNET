@@ -1,0 +1,7 @@
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\bin\Debug\ASSIGNMENT2(3-D).exe.config
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\bin\Debug\ASSIGNMENT2(3-D).exe
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\bin\Debug\ASSIGNMENT2(3-D).pdb
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\obj\Debug\ASSIGNMENT2(3-D).csproj.AssemblyReference.cache
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\obj\Debug\ASSIGNMENT2(3-D).csproj.CoreCompileInputs.cache
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\obj\Debug\ASSIGNMENT2(3-D).exe
+D:\training\assignment2\ASSIGNMENT2(3-D)\ASSIGNMENT2(3-D)\obj\Debug\ASSIGNMENT2(3-D).pdb

@@ -1,0 +1,2 @@
+D:\training\assignment3\ASSIGNMENT3(B)\ASSIGNMENT3(B)\obj\Debug\ASSIGNMENT3(B).csproj.AssemblyReference.cache
+D:\training\assignment3\ASSIGNMENT3(B)\ASSIGNMENT3(B)\obj\Debug\ASSIGNMENT3(B).csproj.CoreCompileInputs.cache
