@@ -1,0 +1,7 @@
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\bin\Debug\ASSIGNMENT_4_5_.exe.config
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\bin\Debug\ASSIGNMENT_4_5_.exe
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\bin\Debug\ASSIGNMENT_4_5_.pdb
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\obj\Debug\ASSIGNMENT_4_5_.csproj.AssemblyReference.cache
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\obj\Debug\ASSIGNMENT_4_5_.csproj.CoreCompileInputs.cache
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\obj\Debug\ASSIGNMENT_4_5_.exe
+D:\training\assignment4\ASSIGNMENT_4_5_\ASSIGNMENT_4_5_\obj\Debug\ASSIGNMENT_4_5_.pdb
