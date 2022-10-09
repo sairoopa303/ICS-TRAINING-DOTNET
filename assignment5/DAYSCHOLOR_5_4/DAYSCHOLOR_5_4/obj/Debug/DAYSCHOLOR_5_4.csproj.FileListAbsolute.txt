@@ -1,0 +1,7 @@
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\obj\Debug\DAYSCHOLOR_5_4.csproj.AssemblyReference.cache
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\obj\Debug\DAYSCHOLOR_5_4.csproj.CoreCompileInputs.cache
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\bin\Debug\DAYSCHOLOR_5_4.exe.config
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\bin\Debug\DAYSCHOLOR_5_4.exe
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\bin\Debug\DAYSCHOLOR_5_4.pdb
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\obj\Debug\DAYSCHOLOR_5_4.exe
+D:\training\assignment5\DAYSCHOLOR_5_4\DAYSCHOLOR_5_4\obj\Debug\DAYSCHOLOR_5_4.pdb

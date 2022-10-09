@@ -1,0 +1,2 @@
+D:\training\assignment5\CALCULATECONCESSION_5_3\CALCULATECONCESSION_5_3\obj\Debug\CALCULATECONCESSION_5_3.csproj.AssemblyReference.cache
+D:\training\assignment5\CALCULATECONCESSION_5_3\CALCULATECONCESSION_5_3\obj\Debug\CALCULATECONCESSION_5_3.csproj.CoreCompileInputs.cache

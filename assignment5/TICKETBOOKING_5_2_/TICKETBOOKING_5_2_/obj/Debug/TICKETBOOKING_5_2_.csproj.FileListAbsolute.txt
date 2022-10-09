@@ -1,0 +1,7 @@
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\bin\Debug\TICKETBOOKING_5_2_.exe.config
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\bin\Debug\TICKETBOOKING_5_2_.exe
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\bin\Debug\TICKETBOOKING_5_2_.pdb
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\obj\Debug\TICKETBOOKING_5_2_.csproj.AssemblyReference.cache
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\obj\Debug\TICKETBOOKING_5_2_.csproj.CoreCompileInputs.cache
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\obj\Debug\TICKETBOOKING_5_2_.exe
+D:\training\assignment5\TICKETBOOKING_5_2_\TICKETBOOKING_5_2_\obj\Debug\TICKETBOOKING_5_2_.pdb
