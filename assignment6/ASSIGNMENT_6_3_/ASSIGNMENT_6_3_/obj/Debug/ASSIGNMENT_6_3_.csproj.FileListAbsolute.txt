@@ -1,0 +1,7 @@
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\bin\Debug\ASSIGNMENT_6_3_.exe.config
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\bin\Debug\ASSIGNMENT_6_3_.exe
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\bin\Debug\ASSIGNMENT_6_3_.pdb
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\obj\Debug\ASSIGNMENT_6_3_.csproj.AssemblyReference.cache
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\obj\Debug\ASSIGNMENT_6_3_.csproj.CoreCompileInputs.cache
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\obj\Debug\ASSIGNMENT_6_3_.exe
+D:\training\assignment6\ASSIGNMENT_6_3_\ASSIGNMENT_6_3_\obj\Debug\ASSIGNMENT_6_3_.pdb
