@@ -1,0 +1,7 @@
+D:\training\CODETEST\CODETEST\CODETEST\bin\Debug\CODETEST.exe.config
+D:\training\CODETEST\CODETEST\CODETEST\bin\Debug\CODETEST.exe
+D:\training\CODETEST\CODETEST\CODETEST\bin\Debug\CODETEST.pdb
+D:\training\CODETEST\CODETEST\CODETEST\obj\Debug\CODETEST.csproj.AssemblyReference.cache
+D:\training\CODETEST\CODETEST\CODETEST\obj\Debug\CODETEST.csproj.CoreCompileInputs.cache
+D:\training\CODETEST\CODETEST\CODETEST\obj\Debug\CODETEST.exe
+D:\training\CODETEST\CODETEST\CODETEST\obj\Debug\CODETEST.pdb
