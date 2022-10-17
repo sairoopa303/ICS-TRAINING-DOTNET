@@ -1,0 +1,7 @@
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\obj\Debug\CODETST_1(2)_.csproj.AssemblyReference.cache
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\obj\Debug\CODETST_1(2)_.csproj.CoreCompileInputs.cache
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\bin\Debug\CODETST_1(2)_.exe.config
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\bin\Debug\CODETST_1(2)_.exe
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\bin\Debug\CODETST_1(2)_.pdb
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\obj\Debug\CODETST_1(2)_.exe
+D:\training\CODETEST\CODETST_1(2)_\CODETST_1(2)_\obj\Debug\CODETST_1(2)_.pdb
